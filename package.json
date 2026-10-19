@@ -1,0 +1,24 @@
+{
+  "name": "mon-projet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oshaara44-byte/mon-projet.git"
+  },
+  "keywords": [],
+  "author": "SEFOU SOUMAILA <oshaara44@gmail.com>",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/oshaara44-byte/mon-projet/issues"
+  },
+  "homepage": "https://github.com/oshaara44-byte/mon-projet#readme",
+  "dependencies": {
+    "lodash": "^4.18.1"
+  }
+}
